@@ -1,0 +1,2 @@
+Accuracy of Datasets:
+Accuracy of iris dataset with KNN is:96.0
